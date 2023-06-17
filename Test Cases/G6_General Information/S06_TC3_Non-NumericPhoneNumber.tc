@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S06_TC3_Non-NumericPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>427a5390-3407-4bdf-896b-0a77ebd90904</testCaseGuid>
+</TestCaseEntity>

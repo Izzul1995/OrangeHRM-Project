@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ronaldo_oxd-icon-button org-action-icon</name>
+   <tag></tag>
+   <elementGuidId>7b663848-1ef5-4364-b08f-c036c89094ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.--last.oxd-tree-node-wrapper > div.oxd-tree-node-content > div.oxd-sheet.oxd-sheet--rounded.oxd-sheet--gutters.oxd-sheet--pastel-white.org-structure-card.--edit > div.org-action > button.oxd-icon-button.org-action-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[46]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f8b219f-b388-4816-b078-0825178fa677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button org-action-icon</value>
+      <webElementGuid>ab7d9d32-cb0f-4018-94b2-4ac322812a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ed178f4-f2ce-48b8-9b7b-f7207970a652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>bcf2068d-3c77-4e39-baca-d472cf3793f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;org-container&quot;]/ul[@class=&quot;oxd-tree-view&quot;]/li[@class=&quot;oxd-tree-node --parent --open --last org-structure&quot;]/ul[@class=&quot;oxd-tree-node-child&quot;]/li[@class=&quot;oxd-tree-node --last&quot;]/div[@class=&quot;--last oxd-tree-node-wrapper&quot;]/div[@class=&quot;oxd-tree-node-content&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--pastel-white org-structure-card --edit&quot;]/div[@class=&quot;org-action&quot;]/button[@class=&quot;oxd-icon-button org-action-icon&quot;]</value>
+      <webElementGuid>494c1a9a-996d-4f8d-88f0-875db3f6d961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[46]</value>
+      <webElementGuid>58af9645-6cea-4f0b-8521-0e231e7664fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/ul/li/ul/li[14]/div/div/div/div[2]/button</value>
+      <webElementGuid>2b6ddc03-da84-4067-a593-cf923f7e6986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ronaldo'])[1]/following::button[1]</value>
+      <webElementGuid>b0d1e398-73f1-4598-a3fa-73bb5cb245e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Science11'])[1]/following::button[4]</value>
+      <webElementGuid>6e3e1125-f8ff-4ca6-b40a-8754f7cef4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::button[3]</value>
+      <webElementGuid>48806e4d-a702-46d3-a67f-e54d4acd8208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]/div/div/div/div[2]/button</value>
+      <webElementGuid>67de9b64-c689-40f6-b567-24ad22ee54b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7804dce4-128d-40f1-a7de-aaaf11b31463</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

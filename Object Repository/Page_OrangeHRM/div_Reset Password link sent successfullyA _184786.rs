@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reset Password link sent successfullyA _184786</name>
+   <tag></tag>
+   <elementGuidId>a237fa0b-6db4-4d2b-ba0a-95a3445f5e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-forgot-password-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36e74af4-4730-43b8-94ba-db99c25382ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-forgot-password-container</value>
+      <webElementGuid>bbd6acd5-2fd8-40da-ac84-cf7df19f85a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Password link sent successfullyA reset password link has been sent to you via email.You can follow that link and select a new password.Note: If the email does not arrive, please contact your OrangeHRM Administrator.OrangeHRM OS 5.4© 2005 - 2023 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>eeec9f87-d6bd-4605-b031-9546b374d27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-forgot-password-container&quot;]</value>
+      <webElementGuid>2165f91c-a255-4be6-8cd8-9730cbef73b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div</value>
+      <webElementGuid>ef7170fd-31e1-441f-9d3d-b57b2b4e40ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>5f498192-4318-4e12-860e-962d8780569f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reset Password link sent successfullyA reset password link has been sent to you via email.You can follow that link and select a new password.Note: If the email does not arrive, please contact your OrangeHRM Administrator.OrangeHRM OS 5.4© 2005 - 2023 OrangeHRM, Inc. All rights reserved.' or . = 'Reset Password link sent successfullyA reset password link has been sent to you via email.You can follow that link and select a new password.Note: If the email does not arrive, please contact your OrangeHRM Administrator.OrangeHRM OS 5.4© 2005 - 2023 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>67df5175-c7b8-4c4d-bd28-e37d8038c29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

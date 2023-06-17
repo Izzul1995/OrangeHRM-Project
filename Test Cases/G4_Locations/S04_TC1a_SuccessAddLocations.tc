@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S04_TC1a_SuccessAddLocations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3b0f8f4-5c7f-4d5a-b1cf-c197d55317c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c0e4c37-c0e4-4bd2-94d2-8885b608ce8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Albania'</defaultValue>
+      <description></description>
+      <id>0c0e4c37-c0e4-4bd2-94d2-8885b608ce8e</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

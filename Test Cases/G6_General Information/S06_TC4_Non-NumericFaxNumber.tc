@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S06_TC4_Non-NumericFaxNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc67723f-4b53-4ba8-a238-06d2b33ba2b5</testCaseGuid>
+</TestCaseEntity>

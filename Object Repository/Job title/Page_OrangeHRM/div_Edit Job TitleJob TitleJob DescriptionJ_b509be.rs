@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit Job TitleJob TitleJob DescriptionJ_b509be</name>
+   <tag></tag>
+   <elementGuidId>609828bf-cb38-4b74-a86b-a1c6357ab03a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31d69be8-e3b1-4f55-8b3c-3fbf6b07cabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>264fe837-ded5-43f2-a717-853aa839a673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Job TitleJob TitleJob DescriptionJob SpecificationBrowseCMGP_infographic FA 3[1] (1).pdfAttachment Size ExceededAccepts up to 1MBNote * Required Cancel  Save </value>
+      <webElementGuid>3ea6f563-728b-482f-b07a-bdbbb53d087f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>847ab2b1-3e6c-4f86-b2cc-b8f26422677b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>a4e89343-33c3-43bc-b272-308af76c7e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>e7a58ef7-e8e3-476b-b9fd-7fd1676d957a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>5929d0ac-55ad-4276-8ed4-1854153585cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>4b2a0b48-a74f-4b50-9e68-48332647d859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit Job TitleJob TitleJob DescriptionJob SpecificationBrowseCMGP_infographic FA 3[1] (1).pdfAttachment Size ExceededAccepts up to 1MBNote * Required Cancel  Save ' or . = 'Edit Job TitleJob TitleJob DescriptionJob SpecificationBrowseCMGP_infographic FA 3[1] (1).pdfAttachment Size ExceededAccepts up to 1MBNote * Required Cancel  Save ')]</value>
+      <webElementGuid>ec859fa8-b917-4a1d-a8ae-709cec356380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

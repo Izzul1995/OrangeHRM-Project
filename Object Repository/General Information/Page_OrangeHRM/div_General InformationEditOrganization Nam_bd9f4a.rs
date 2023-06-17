@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_General InformationEditOrganization Nam_bd9f4a</name>
+   <tag></tag>
+   <elementGuidId>8ff028e0-ab7c-4c68-b8e1-e838fe31635a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2892584d-3ad1-487e-a59b-aad4170e6dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>d932122a-c607-4dba-a45f-329c40a8d273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General InformationEditOrganization NameRequiredNumber of Employees58Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required Save </value>
+      <webElementGuid>731c7cdc-c612-4220-a637-006ae0fa87ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>6bb7574c-1070-4c98-b453-b4658bc45ab5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>89d319e3-f9ad-4d48-90a3-37da77c45fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>6fc3c47c-d234-4d1f-950f-b2ffaae67263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>62cdd2c6-290c-4eca-b4af-1f47fa0b8a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>85408898-f8a1-4ea4-802c-72156e96ec1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'General InformationEditOrganization NameRequiredNumber of Employees58Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required Save ' or . = 'General InformationEditOrganization NameRequiredNumber of Employees58Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required Save ')]</value>
+      <webElementGuid>c2614e7f-5c36-478e-84ce-eebd84a87e48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

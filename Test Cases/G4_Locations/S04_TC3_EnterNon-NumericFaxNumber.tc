@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S04_TC3_EnterNon-NumericFaxNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e4a24f4-74df-49b9-a5ff-4991b89c466a</testCaseGuid>
+</TestCaseEntity>

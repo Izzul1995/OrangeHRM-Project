@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S04_TC2_EnterNon-NumericPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>559b5c97-e50d-44b3-a543-0e59ac92e8b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4182cf6-e187-4c88-bf71-f3e9cea2402a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Albania'</defaultValue>
+      <description></description>
+      <id>a4182cf6-e187-4c88-bf71-f3e9cea2402a</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

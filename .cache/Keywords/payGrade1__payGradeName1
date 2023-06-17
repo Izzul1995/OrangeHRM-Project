@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "768BD2286CB556CEC9EF58E8AA13B4AD",
+  "keywordClasses": [
+    {
+      "name": "payGrade1.payGradeName1",
+      "keywordMethods": [
+        {
+          "name": "setPayGradeName1",
+          "parameters": [
+            {
+              "name": "a",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

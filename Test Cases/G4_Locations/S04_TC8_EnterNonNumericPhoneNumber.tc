@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S04_TC8_EnterNonNumericPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbf64630-1c85-4df2-a183-63023c703b0f</testCaseGuid>
+</TestCaseEntity>
